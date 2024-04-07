@@ -25,7 +25,7 @@ User-friendly interface optimized for browsing and trading NFTs.
 Minting functionality allowing creators to tokenize their digital assets.
 Secondary market for trading pre-existing NFTs.
 
-3. ARCHers_Vision_Pro:
+3. ARCHers_Vision_Pro: Our Product
 https://archers-store.webflow.io/
 
 ARCHers_Vision_Pro serves as an e-commerce platform where users can transact physical products using cryptocurrency payments. It functions as a marketplace for goods relevant to the ARCHersVerse community. Key features of ARCHers_Vision_Pro include:
