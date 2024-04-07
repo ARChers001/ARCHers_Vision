@@ -1,0 +1,1 @@
+chrome-extension://iidnbdjijdkbmajdffnidomddglmieko/assets/fonts/open-sans-v23-latin-regular.woff
